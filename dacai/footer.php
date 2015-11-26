@@ -8,7 +8,7 @@ if (!defined('__TYPECHO_ROOT_DIR__'))
 <span>&copy; <?php echo date('Y'); ?> <a href="<?php $this -> options -> siteUrl(); ?>"><?php $this->options->title(); ?></a></span><!--
 --><span><a href="http://www.miitbeian.gov.cn/" target="_blank">* ICP备******号</a></span><!-- 
 --><span><?php _e('Powered by <a href="http://www.typecho.org"  target="_blank">Typecho</a>'); ?></span><!--
---><span><?php _e('Theme by <a href="http://www.dacai.me"  target="_blank">DaCai.me</a>'); ?></span><!--
+--><span><?php _e('Theme by <a href="https://github.com/xng/theme-jiandian"  target="_blank">JianDan</a>'); ?></span><!--
 --><div class="tj-ico"><script type="text/javascript">/*这里放网站统计的js*/</script>
 </div></div>
 </footer><!-- end #footer -->
